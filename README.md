@@ -15,12 +15,9 @@ Demus APK is a powerful music streaming app that lets you enjoy unlimited songs,
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="demus-home.png" alt="Demus APK Home Screen" width="250"/>
-  <img src="demus-player.png" alt="Demus APK Music Player" width="250"/>
-  <img src="demus-library.png" alt="Demus APK Library" width="250"/>
-</p>
-
+![Home Screen](demus-home.png)
+![Music Player](demus-player.png)
+![Library](demus-library.png)
 ---
 
 ## ⚙️ How to Install Demus APK on Android
