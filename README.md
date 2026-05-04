@@ -7,7 +7,7 @@ Demus APK is a powerful music streaming app that lets you enjoy unlimited songs,
 ## 📥 Download Demus APK (Official Latest Version)
 
 👉 **Download here:**
-https://yourwebsite.com
+[https://yourwebsite.com](https://getdemusapp.com/)
 
 > Always download the latest version to avoid bugs, crashes, and playback errors.
 
@@ -70,7 +70,7 @@ Follow these simple steps:
 Yes, if you download it from a trusted source.
 
 👉 Get the safe and updated version here:
-https://yourwebsite.com
+[https://yourwebsite.com](https://getdemusapp.com/)
 
 ---
 
