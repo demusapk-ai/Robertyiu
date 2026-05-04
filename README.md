@@ -71,3 +71,7 @@ Demus APK is a great choice for music lovers who want free and flexible streamin
 ---
 
 ⭐ If you found this helpful, don’t forget to star this repository!
+## 📸 Screenshots
+
+![Home Screen](demus-home.png)
+![Music Player](demus-player.png)
